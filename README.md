@@ -5,6 +5,7 @@
 - 3、asynUpdate.md 异步更新
 - 4、computed.md 计算属性
 - 5、watch.md
+- 6、nextTick.md
 
 ## Set
 Set 是 JavaScript 中的一个内置对象，它允许你存储任何类型的唯一值
